@@ -21,6 +21,12 @@ Each certification will be stored in a dedicated folder, structured as follows:
     └── certificate-oss.png
 ```
 
+## Certifications List
+
+| Certification Name  | Date Obtained          | Badge |
+| :--------------------- |:-------------------:| -----:|
+| Example Certification  |   DD-MM-YYYY        |  Aligné à droite |
+
 
 
 ## How to Use This Repository

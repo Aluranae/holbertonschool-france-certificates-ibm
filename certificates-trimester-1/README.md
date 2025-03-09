@@ -23,3 +23,28 @@
     * Licenses
     * Governance
     * etc.
+
+
+
+
+# 1. Trimester 1 - Certificate: Agile Explorer - Powered by Agile at IBM
+
+
+## When Can You Start?
+
+* You can begin this course at the very start of your program at Holberton.
+
+
+## Prerequisites and Requirements
+
+* This course is accessible with no prerequisites.
+
+## Certificate and Learning
+
+* The course to complete for the certificate is [Agile Explorer - Powered by Agile at IBM](https://skills.yourlearning.ibm.com/activity/PLAN-716FDF294AB3)
+
+* In this course, you will learn:
+    * The Agile methodology
+    * Agile practices and principles
+    * Applying agility in a work environment
+    * etc.

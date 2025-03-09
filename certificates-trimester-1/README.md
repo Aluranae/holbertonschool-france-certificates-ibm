@@ -22,7 +22,7 @@
     * Best practices for contributions
     * Licenses
     * Governance
-    * etc. <br><br>
+    * etc. <br><br><br><br>
 
 
 

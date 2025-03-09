@@ -14,7 +14,10 @@ This repository is designed to:
 
 Each certification will be stored in a dedicated folder, structured as follows:
 
-IBM_Certifications/ │── Certification_Name/ │ │── certificate.pdf │ │── badge.png │ │── README.md (Description of the certification, skills acquired, and exam details)
+.
+├── README.md
+└── certificates-trimester-1
+    └── certificate-oss.png
 
 
 

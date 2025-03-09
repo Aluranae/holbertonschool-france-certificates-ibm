@@ -14,7 +14,8 @@ This repository is designed to:
 
 Each certification will be stored in a dedicated folder, structured as follows:
 
-```.
+```
+.
 ├── README.md
 └── certificates-trimester-1
     └── certificate-oss.png```

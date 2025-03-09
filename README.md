@@ -23,7 +23,7 @@ Each certification will be stored in a dedicated folder, structured as follows:
 
 ## Certifications List
 
-| Certification Name  | Date Obtained          | Badge |
+| Certification Name  | Date Obtained   | Badge |
 | :--------------------- |:-------------------:| -----:|
 | Example Certification  |   DD-MM-YYYY        |  Aligné à droite |
 

@@ -22,11 +22,11 @@
     * Best practices for contributions
     * Licenses
     * Governance
-    * etc.  
-  
-  
-  
-  
+    * etc. <br><br>
+
+
+
+
 # 1. Trimester 1 - Certificate: Agile Explorer - Powered by Agile at IBM  
 
 

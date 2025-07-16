@@ -29,21 +29,33 @@
 
 ## When Can You Start?
 
-* You can take this course after completing the SQL/MySQL projects on the intranet or after obtaining the certificate from the previous task [Agile Explorer - Powered by Agile at IBM](https://skills.yourlearning.ibm.com/activity/PLAN-716FDF294AB3)
+* You can take this course whenever you want during the Trimester two
 
+## Why this course ?
+
+* We chose this course to better prepare you for your portfolio projects in trimester 3.
+* To discover the different methods of project of project management
+* To understand the role of a project manager, which will help you better understand your role as a developer when you join a technical team later on for an internship or a job.
 
 ## Prerequisites and Requirements
 
-* Knowledge of SQL and MySQL is mandatory.
-* Understanding what an SQL injection attack is.
-* If you are unfamiliar with SQL injection, you can learn about it through these resources:
-    * [SQL Injection](https://www.w3schools.com/sql/sql_injection.asp)
-    * [SQL Injections (SQLi): Principles, Impacts, Exploitation, and Security Best Practices](https://www.vaadata.com/blog/sql-injections-principles-impacts-exploitations-security-best-practices/)
+* No prior knowledge is necessary to start this course
 
 ## Certificate and Learning
 
-* The course to complete for the certificate is [Detecting SQL Injection Attacks with Guardium](https://sb-auth.skillsbuild.org/login?client_id=yl-internal-adopter&learning_path=https%3A%2F%2Fskills.yourlearning.ibm.com%2F&redirect_uri=https%3A%2F%2Fskills.yourlearning.ibm.com%2Foauth%2Fcallback&referer=skills.yourlearning.ibm.com&response_type=code&scope=openid+email)
-* What you will learn in this mini-course:
-    * What an SQL injection attack is
-    * How to detect an SQL injection attack using Guardium Data Protection
-    * How to protect against such attacks
+* The course to complete for the certificate is Project Management Fundamentals
+* Here’s the link in text form in case you encounter an issue : https://sb-auth.skillsbuild.org/login?clientid=yl-internal-adopter&learningpath=https%3A%2F%2Fskills.yourlearning.ibm.com%2F&redirecturi=https%3A%2F%2Fskills.yourlearning.ibm.com%2Foauth%2Fcallback&referer=skills.yourlearning.ibm.com&responsetype=code&scope=openid+email
+* This course is made up of 2 modules, which you should do in order :
+        - Module 1 : Exploring the Basics of Project Management
+        - Module 2 : Navigating the Project Management Lifecycle
+* You should access these modules from the course page.
+
+## What you will learn in this course ?
+```
+- Determine the characteristics of projects and project management
+- Identify project management frameworks
+- Discover some of the most common project management methodologies
+- Identify the phases in the project management lifecycle
+- Describe the tasks a project manager performs in each phase of the project management lifecycle
+- Apply knowledge of project management deliverables in the context of a scenario
+```

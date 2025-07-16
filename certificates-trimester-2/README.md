@@ -24,7 +24,7 @@
 
 ---
 
-# 1. Trimester 2 - Certificate: Detecting SQL Injections attacks with Guardium  
+# 1. Trimester 2 - Certificate: Project Management Fundamentals  
 
 
 ## When Can You Start?

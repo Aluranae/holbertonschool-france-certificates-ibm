@@ -45,7 +45,7 @@
 
 * The course to complete for the certificate is Project Management Fundamentals
 * Here’s the link in text form in case you encounter an issue : https://sb-auth.skillsbuild.org/login?clientid=yl-internal-adopter&learningpath=https%3A%2F%2Fskills.yourlearning.ibm.com%2F&redirecturi=https%3A%2F%2Fskills.yourlearning.ibm.com%2Foauth%2Fcallback&referer=skills.yourlearning.ibm.com&responsetype=code&scope=openid+email
-* This course is made up of 2 modules, which you should do in order :
+* This course is made up of 2 modules, which you should do in order :  
         - Module 1 : Exploring the Basics of Project Management
         - Module 2 : Navigating the Project Management Lifecycle
 * You should access these modules from the course page.
